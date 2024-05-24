@@ -1,4 +1,4 @@
-#include "MAX1704X.h"
+#include "../inc/MAX1704X.h"
 
 MAX1704X::MAX1704X(PinName sda, PinName scl) {
   _i2c = new I2C(sda, scl);
