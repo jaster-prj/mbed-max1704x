@@ -1,6 +1,6 @@
 {
   "name": "MAX1704x",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MBED OS Library for \"MAX1704x\" LiIon Fuel Gauge",
   "keywords": "MAX1704x, mbed os",
   "repository":

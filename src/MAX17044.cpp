@@ -1,4 +1,4 @@
-#include "../inc/MAX17044.h"
+#include "../include/MAX17044.h"
 
 MAX17044::MAX17044(PinName sda, PinName scl) : MAX1704X(sda, scl)
 {
